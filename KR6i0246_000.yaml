@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0246/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 禪要經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T15/T15n0609.xml
+    old_id: T15n0609
+hash: sha256:ebb9439dc35f1b444e252f6d065c81e1f138e3ae916ab8fddbca065680cd07fa

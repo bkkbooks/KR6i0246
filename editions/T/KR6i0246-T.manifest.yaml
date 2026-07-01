@@ -1,0 +1,48 @@
+canonical_identifier: bkk:krp/KR6i0246/T/v1
+canonical_location: https://kanripo.org/bkk/KR6i0246/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 禪要經
+  identifiers:
+    krp: KR6i0246
+    cbeta: T15n0609
+    cbeta_old_id: T15n0609
+    authorityid: CA0000413
+    json_key: T0609
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T15/T15n0609.xml
+    old_id: T15n0609
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6i0246_000-T.yaml, hash: 'sha256:ebb9439dc35f1b444e252f6d065c81e1f138e3ae916ab8fddbca065680cd07fa'}
+  - {seq: 1, filename: KR6i0246_001-T.yaml, hash: 'sha256:504a4aaa865ed7f09cd1f5ea6d70dcd4ce900598625ad0b1349f170ba3bc8536'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6i0246_000-T.markers.yaml, hash: 'sha256:8eb747d88cad554a368556f32a5794895bff8d5c84df404876eece4e2def8f6d'}
+  - {seq: 1, role: markers, filename: assets/KR6i0246_001-T.markers.yaml, hash: 'sha256:1599ae9b5b7db87811ccab95fab26d7297dde5f239a1c9c6bf239ee185de098a'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6i0246_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 1518
+  label: 禪要經
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6i0246_T_001-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 訶欲品
+  type: mulu
+  level: 1
+hash: sha256:039415124f4c053b8bd1611eee8761292835f942f3799a8d29b1e07697f112df
